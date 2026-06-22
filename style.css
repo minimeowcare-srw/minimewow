@@ -18,9 +18,8 @@ nav{
 }
 
 .logo img{
-    height:60px;
+    height:90px;
     width:auto;
-}
 }
 
 .menu a{
@@ -31,7 +30,7 @@ nav{
 
 .hero{
     min-height:100vh;
-    background:url('banner.jpg') center center/cover no-repeat;
+    background:url('banner.png') center center/cover no-repeat;
     display:flex;
     flex-direction:column;
     justify-content:center;
