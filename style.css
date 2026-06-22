@@ -17,10 +17,10 @@ nav{
     background:#000;
 }
 
-.logo{
-    color:white;
-    font-size:24px;
-    font-weight:bold;
+.logo img{
+    height:60px;
+    width:auto;
+}
 }
 
 .menu a{
