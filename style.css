@@ -34,6 +34,44 @@ nav{
     background:#faf7f2;
 }
 
+.collections{
+    padding:60px 20px;
+    text-align:center;
+    background:#faf7f2;
+}
+
+.collections h2{
+    color:#a88454;
+    margin-bottom:30px;
+    font-family:"Times New Roman", serif;
+}
+
+.collection-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:20px;
+    max-width:1000px;
+    margin:auto;
+}
+
+.collection-card{
+    background:white;
+    border-radius:10px;
+    overflow:hidden;
+    box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+.collection-card img{
+    width:100%;
+    height:280px;
+    object-fit:cover;
+}
+
+.collection-card h3{
+    padding:15px;
+    color:#444;
+}
+
 .contact{
     text-align:center;
     padding:30px;
