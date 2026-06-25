@@ -136,14 +136,14 @@ footer{
 
 .banner2{
     width:100%;
-    text-align:center;
-    margin:20px 0;
+    margin:0;
+    padding:0;
 }
 
 .banner2-image{
     width:100%;
-    max-width:1200px;
     height:auto;
     display:block;
-    margin:auto;
+    margin:0;
+
 }
