@@ -110,10 +110,11 @@ nav{
 .contact a{
     background:#25D366;
     color:white;
-    padding:12px 25px;
-    border-radius:30px;
+    padding:25px 60px;
+    border-radius:50px;
     text-decoration:none;
-    font-weight:bold;
+    font-weight:700;
+    font-size:32px;
     display:inline-block;
 }
 
