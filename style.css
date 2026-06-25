@@ -119,3 +119,17 @@ footer{
 .contact a:hover{
     transform: scale(1.05);
 }
+
+.banner2{
+    width:100%;
+    text-align:center;
+    margin:20px 0;
+}
+
+.banner2-image{
+    width:100%;
+    max-width:1200px;
+    height:auto;
+    display:block;
+    margin:auto;
+}
