@@ -28,6 +28,20 @@ nav{
     display:block;
 }
 
+.hero-image,
+.banner2-image{
+    width:100%;
+    display:block;
+    margin:0 auto;
+    height:auto;
+}
+
+.banner2{
+    width:100%;
+    margin:0;
+    padding:0;
+}
+
 .launch{
     text-align:center;
     padding:50px 20px;
