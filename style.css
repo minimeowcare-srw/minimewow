@@ -95,3 +95,27 @@ footer{
     text-align:center;
     padding:20px;
 }
+
+.launch h2{
+    font-size: 36px;
+    font-weight: 800;
+    color: #b8860b;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.contact a{
+    background: #25D366;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    display: inline-block;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.contact a:hover{
+    transform: scale(1.05);
+}
