@@ -84,17 +84,17 @@ nav{
 
 .contact{
     text-align:center;
-    padding:30px;
+    padding:40px;
 }
 
 .contact a{
     background:#25D366;
     color:white;
-    padding:25px 60px;
+    padding:30px 80px;
     border-radius:50px;
     text-decoration:none;
-    font-weight:700;
-    font-size:32px;
+    font-weight:800;
+    font-size:42px;
     display:inline-block;
 }
 
